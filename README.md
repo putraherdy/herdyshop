@@ -76,10 +76,10 @@ Sample User Logins
 admin@personal.com (Admin)
 123456
 
-john@example.com (Customer)
+john@personal.com (Customer)
 123456
 
-jane@example.com (Customer)
+jane@personal.com (Customer)
 123456
 ```
 
