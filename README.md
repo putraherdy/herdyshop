@@ -83,6 +83,12 @@ jane@personal.com (Customer)
 123456
 ```
 
+
+## Link to HerdyShop app
+
+https://herdyshop.herokuapp.com
+
+
 ## App Info
 
 ### Author
